@@ -10286,3 +10286,16 @@ body {
 
   
 }
+.header__avatar {
+  background-image: url("https://lh3.googleusercontent.com/pw/ACtC-3fFDJHZRlgaJ3D8crRp_I50f73Bd2UwUkQ-eaO-4d0D0O6UsnwVy1bj24qVN2eD1N_bQVy6hLWoiDo_TlHhrB3_tB2nuJ1-MhH14TRKFLdKqLoXTe_Xqubn64w2UYeWDdnQFdSpeDX8aOcHo3QKwJQPyQ=w1616-h1080-no?authuser=0");
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 50%;
+  border: 2px solid rgba(255, 255, 255, .2);
+  position: relative;
+
+  width: 45px;
+  height: 55px;
+  cursor: pointer;
+  background-position: top center;
+}
